@@ -1,0 +1,6 @@
+{
+	"name": "extract-stats-webpack-plugin",
+	"version": "0.1.0",
+	"author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
+	"main": "lib/stats.js"
+}
